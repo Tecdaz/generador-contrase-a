@@ -2,7 +2,9 @@
 Script para generar contraseñas con diferentes opciones
 
 ## Como usar:
-Ejecutar el script y te dara a escoger que tipo de caracteres tendra tu contraseña (mayusculas, numerios, symbolos especiales), despues defines la longitud y te la crea copiandola directamente a tu portapapeles.
+1. Ejecutar el script.
+2. Responder "s" o "n" a las opciones disponibles (mayusculas, numeros, simbolos especiales)
+3. Definir la longitud, despues te mostrara la contraseña generada y te la copia directamente al portapapeles.
 
 ## Requerimientos
 - Python
